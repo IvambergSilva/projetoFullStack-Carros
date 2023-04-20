@@ -1,0 +1,27 @@
+h1, h2 {
+    text-align: center;
+}
+
+h2 {
+    margin: 100px 0 20px;
+}
+
+.table {
+    margin: 50px auto 0;
+}
+
+.table, .td, .th{
+    width: 300px;
+    border: 1px solid #000;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+.thead {
+    background: #C1C1C1;
+}
+
+div {
+    width: 80%;
+    margin: auto;
+}
